@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MediVoice</string>
+    <string name="medical_history">Medical History</string>
+    <string name="tap_to_read_full">Tap to read full report</string>
+    <string name="tap_to_collapse">Tap to collapse</string>
+    <string name="show_on_map">Show on Map</string>
+    <string name="get_directions">Directions</string>
+    <string name="record_deleted">Record deleted</string>
+    <string name="no_history_found">No consultation history found.</string>
+</resources>
